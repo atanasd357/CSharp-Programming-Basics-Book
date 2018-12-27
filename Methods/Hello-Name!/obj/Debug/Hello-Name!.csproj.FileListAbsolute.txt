@@ -1,0 +1,6 @@
+C:\Users\DELL-\source\repos\Methods\Hello-Name!\bin\Debug\Hello-Name!.exe.config
+C:\Users\DELL-\source\repos\Methods\Hello-Name!\bin\Debug\Hello-Name!.exe
+C:\Users\DELL-\source\repos\Methods\Hello-Name!\bin\Debug\Hello-Name!.pdb
+C:\Users\DELL-\source\repos\Methods\Hello-Name!\obj\Debug\Hello-Name!.csproj.CoreCompileInputs.cache
+C:\Users\DELL-\source\repos\Methods\Hello-Name!\obj\Debug\Hello-Name!.exe
+C:\Users\DELL-\source\repos\Methods\Hello-Name!\obj\Debug\Hello-Name!.pdb

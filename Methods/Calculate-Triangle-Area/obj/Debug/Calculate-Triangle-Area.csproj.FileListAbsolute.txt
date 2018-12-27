@@ -1,0 +1,7 @@
+C:\Users\DELL-\source\repos\Methods\Calculate-Triangle-Area\bin\Debug\Calculate-Triangle-Area.exe.config
+C:\Users\DELL-\source\repos\Methods\Calculate-Triangle-Area\bin\Debug\Calculate-Triangle-Area.exe
+C:\Users\DELL-\source\repos\Methods\Calculate-Triangle-Area\bin\Debug\Calculate-Triangle-Area.pdb
+C:\Users\DELL-\source\repos\Methods\Calculate-Triangle-Area\obj\Debug\Calculate-Triangle-Area.csprojResolveAssemblyReference.cache
+C:\Users\DELL-\source\repos\Methods\Calculate-Triangle-Area\obj\Debug\Calculate-Triangle-Area.csproj.CoreCompileInputs.cache
+C:\Users\DELL-\source\repos\Methods\Calculate-Triangle-Area\obj\Debug\Calculate-Triangle-Area.exe
+C:\Users\DELL-\source\repos\Methods\Calculate-Triangle-Area\obj\Debug\Calculate-Triangle-Area.pdb

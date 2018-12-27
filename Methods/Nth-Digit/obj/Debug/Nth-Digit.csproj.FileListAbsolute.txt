@@ -1,0 +1,6 @@
+C:\Users\DELL-\source\repos\Methods\Nth-Digit\bin\Debug\Nth-Digit.exe.config
+C:\Users\DELL-\source\repos\Methods\Nth-Digit\bin\Debug\Nth-Digit.exe
+C:\Users\DELL-\source\repos\Methods\Nth-Digit\bin\Debug\Nth-Digit.pdb
+C:\Users\DELL-\source\repos\Methods\Nth-Digit\obj\Debug\Nth-Digit.csproj.CoreCompileInputs.cache
+C:\Users\DELL-\source\repos\Methods\Nth-Digit\obj\Debug\Nth-Digit.exe
+C:\Users\DELL-\source\repos\Methods\Nth-Digit\obj\Debug\Nth-Digit.pdb

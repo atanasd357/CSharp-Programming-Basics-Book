@@ -1,0 +1,6 @@
+C:\Users\DELL-\source\repos\Methods\Min-Method\bin\Debug\Min-Method.exe.config
+C:\Users\DELL-\source\repos\Methods\Min-Method\bin\Debug\Min-Method.exe
+C:\Users\DELL-\source\repos\Methods\Min-Method\bin\Debug\Min-Method.pdb
+C:\Users\DELL-\source\repos\Methods\Min-Method\obj\Debug\Min-Method.csproj.CoreCompileInputs.cache
+C:\Users\DELL-\source\repos\Methods\Min-Method\obj\Debug\Min-Method.exe
+C:\Users\DELL-\source\repos\Methods\Min-Method\obj\Debug\Min-Method.pdb
