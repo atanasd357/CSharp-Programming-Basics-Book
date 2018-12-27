@@ -1,0 +1,6 @@
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\Rectangle-of-N-Stars\bin\Debug\Rectangle-of-N-Stars.exe.config
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\Rectangle-of-N-Stars\bin\Debug\Rectangle-of-N-Stars.exe
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\Rectangle-of-N-Stars\bin\Debug\Rectangle-of-N-Stars.pdb
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\Rectangle-of-N-Stars\obj\Debug\Rectangle-of-N-Stars.csproj.CoreCompileInputs.cache
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\Rectangle-of-N-Stars\obj\Debug\Rectangle-of-N-Stars.exe
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\Rectangle-of-N-Stars\obj\Debug\Rectangle-of-N-Stars.pdb

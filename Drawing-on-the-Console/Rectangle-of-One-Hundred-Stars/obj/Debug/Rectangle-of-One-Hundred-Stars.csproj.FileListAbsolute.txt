@@ -1,0 +1,7 @@
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\Rectangle-of-One-Hundred-Stars\bin\Debug\Rectangle-of-One-Hundred-Stars.exe.config
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\Rectangle-of-One-Hundred-Stars\bin\Debug\Rectangle-of-One-Hundred-Stars.exe
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\Rectangle-of-One-Hundred-Stars\bin\Debug\Rectangle-of-One-Hundred-Stars.pdb
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\Rectangle-of-One-Hundred-Stars\obj\Debug\Rectangle-of-One-Hundred-Stars.csprojResolveAssemblyReference.cache
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\Rectangle-of-One-Hundred-Stars\obj\Debug\Rectangle-of-One-Hundred-Stars.csproj.CoreCompileInputs.cache
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\Rectangle-of-One-Hundred-Stars\obj\Debug\Rectangle-of-One-Hundred-Stars.exe
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\Rectangle-of-One-Hundred-Stars\obj\Debug\Rectangle-of-One-Hundred-Stars.pdb

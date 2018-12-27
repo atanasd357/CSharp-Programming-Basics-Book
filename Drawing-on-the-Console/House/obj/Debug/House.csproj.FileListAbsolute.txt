@@ -1,0 +1,6 @@
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\House\bin\Debug\House.exe.config
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\House\bin\Debug\House.exe
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\House\bin\Debug\House.pdb
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\House\obj\Debug\House.csproj.CoreCompileInputs.cache
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\House\obj\Debug\House.exe
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\House\obj\Debug\House.pdb

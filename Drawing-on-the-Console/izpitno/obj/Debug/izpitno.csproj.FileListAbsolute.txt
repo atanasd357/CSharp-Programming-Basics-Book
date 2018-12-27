@@ -1,0 +1,6 @@
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\izpitno\bin\Debug\izpitno.exe.config
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\izpitno\bin\Debug\izpitno.exe
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\izpitno\bin\Debug\izpitno.pdb
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\izpitno\obj\Debug\izpitno.csproj.CoreCompileInputs.cache
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\izpitno\obj\Debug\izpitno.exe
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\izpitno\obj\Debug\izpitno.pdb

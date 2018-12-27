@@ -1,0 +1,7 @@
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\Rhombous-of-Stars\bin\Debug\Rhombous-of-Stars.exe.config
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\Rhombous-of-Stars\bin\Debug\Rhombous-of-Stars.exe
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\Rhombous-of-Stars\bin\Debug\Rhombous-of-Stars.pdb
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\Rhombous-of-Stars\obj\Debug\Rhombous-of-Stars.csproj.CoreCompileInputs.cache
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\Rhombous-of-Stars\obj\Debug\Rhombous-of-Stars.exe
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\Rhombous-of-Stars\obj\Debug\Rhombous-of-Stars.pdb
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\Rhombous-of-Stars\obj\Debug\Rhombous-of-Stars.csprojResolveAssemblyReference.cache

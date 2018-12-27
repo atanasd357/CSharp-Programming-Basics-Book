@@ -1,0 +1,7 @@
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\STop\bin\Debug\STop.exe.config
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\STop\bin\Debug\STop.exe
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\STop\bin\Debug\STop.pdb
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\STop\obj\Debug\STop.csproj.CoreCompileInputs.cache
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\STop\obj\Debug\STop.exe
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\STop\obj\Debug\STop.pdb
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\STop\obj\Debug\STop.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\Square-Frame\bin\Debug\Square-Frame.exe.config
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\Square-Frame\bin\Debug\Square-Frame.exe
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\Square-Frame\bin\Debug\Square-Frame.pdb
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\Square-Frame\obj\Debug\Square-Frame.csproj.CoreCompileInputs.cache
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\Square-Frame\obj\Debug\Square-Frame.exe
+C:\Users\DELL-\source\repos\Drawing-on-the-Console\Square-Frame\obj\Debug\Square-Frame.pdb
