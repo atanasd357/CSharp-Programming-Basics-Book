@@ -1,0 +1,7 @@
+C:\Users\DELL-\source\repos\Complex-Loops\Check-Prime\bin\Debug\Check-Prime.exe.config
+C:\Users\DELL-\source\repos\Complex-Loops\Check-Prime\bin\Debug\Check-Prime.exe
+C:\Users\DELL-\source\repos\Complex-Loops\Check-Prime\bin\Debug\Check-Prime.pdb
+C:\Users\DELL-\source\repos\Complex-Loops\Check-Prime\obj\Debug\Check-Prime.csprojResolveAssemblyReference.cache
+C:\Users\DELL-\source\repos\Complex-Loops\Check-Prime\obj\Debug\Check-Prime.csproj.CoreCompileInputs.cache
+C:\Users\DELL-\source\repos\Complex-Loops\Check-Prime\obj\Debug\Check-Prime.exe
+C:\Users\DELL-\source\repos\Complex-Loops\Check-Prime\obj\Debug\Check-Prime.pdb

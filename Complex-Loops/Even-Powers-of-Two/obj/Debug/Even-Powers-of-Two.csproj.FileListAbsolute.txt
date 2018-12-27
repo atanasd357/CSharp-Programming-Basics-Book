@@ -1,0 +1,6 @@
+C:\Users\DELL-\source\repos\Complex-Loops\Even-Powers-of-Two\bin\Debug\Even-Powers-of-Two.exe.config
+C:\Users\DELL-\source\repos\Complex-Loops\Even-Powers-of-Two\bin\Debug\Even-Powers-of-Two.exe
+C:\Users\DELL-\source\repos\Complex-Loops\Even-Powers-of-Two\bin\Debug\Even-Powers-of-Two.pdb
+C:\Users\DELL-\source\repos\Complex-Loops\Even-Powers-of-Two\obj\Debug\Even-Powers-of-Two.csproj.CoreCompileInputs.cache
+C:\Users\DELL-\source\repos\Complex-Loops\Even-Powers-of-Two\obj\Debug\Even-Powers-of-Two.exe
+C:\Users\DELL-\source\repos\Complex-Loops\Even-Powers-of-Two\obj\Debug\Even-Powers-of-Two.pdb

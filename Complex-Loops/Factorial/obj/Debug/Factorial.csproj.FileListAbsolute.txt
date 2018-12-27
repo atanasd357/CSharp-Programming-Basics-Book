@@ -1,0 +1,7 @@
+C:\Users\DELL-\source\repos\Complex-Loops\Factorial\bin\Debug\Factorial.exe.config
+C:\Users\DELL-\source\repos\Complex-Loops\Factorial\bin\Debug\Factorial.exe
+C:\Users\DELL-\source\repos\Complex-Loops\Factorial\bin\Debug\Factorial.pdb
+C:\Users\DELL-\source\repos\Complex-Loops\Factorial\obj\Debug\Factorial.csprojResolveAssemblyReference.cache
+C:\Users\DELL-\source\repos\Complex-Loops\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\DELL-\source\repos\Complex-Loops\Factorial\obj\Debug\Factorial.exe
+C:\Users\DELL-\source\repos\Complex-Loops\Factorial\obj\Debug\Factorial.pdb

@@ -1,0 +1,7 @@
+C:\Users\DELL-\source\repos\Complex-Loops\Magic-Combination\bin\Debug\Magic-Combination.exe.config
+C:\Users\DELL-\source\repos\Complex-Loops\Magic-Combination\bin\Debug\Magic-Combination.exe
+C:\Users\DELL-\source\repos\Complex-Loops\Magic-Combination\bin\Debug\Magic-Combination.pdb
+C:\Users\DELL-\source\repos\Complex-Loops\Magic-Combination\obj\Debug\Magic-Combination.csprojResolveAssemblyReference.cache
+C:\Users\DELL-\source\repos\Complex-Loops\Magic-Combination\obj\Debug\Magic-Combination.csproj.CoreCompileInputs.cache
+C:\Users\DELL-\source\repos\Complex-Loops\Magic-Combination\obj\Debug\Magic-Combination.exe
+C:\Users\DELL-\source\repos\Complex-Loops\Magic-Combination\obj\Debug\Magic-Combination.pdb

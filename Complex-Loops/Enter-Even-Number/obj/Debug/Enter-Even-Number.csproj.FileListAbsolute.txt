@@ -1,0 +1,7 @@
+C:\Users\DELL-\source\repos\Complex-Loops\Enter-Even-Number\bin\Debug\Enter-Even-Number.exe.config
+C:\Users\DELL-\source\repos\Complex-Loops\Enter-Even-Number\bin\Debug\Enter-Even-Number.exe
+C:\Users\DELL-\source\repos\Complex-Loops\Enter-Even-Number\bin\Debug\Enter-Even-Number.pdb
+C:\Users\DELL-\source\repos\Complex-Loops\Enter-Even-Number\obj\Debug\Enter-Even-Number.csprojResolveAssemblyReference.cache
+C:\Users\DELL-\source\repos\Complex-Loops\Enter-Even-Number\obj\Debug\Enter-Even-Number.csproj.CoreCompileInputs.cache
+C:\Users\DELL-\source\repos\Complex-Loops\Enter-Even-Number\obj\Debug\Enter-Even-Number.exe
+C:\Users\DELL-\source\repos\Complex-Loops\Enter-Even-Number\obj\Debug\Enter-Even-Number.pdb

@@ -1,0 +1,6 @@
+C:\Users\DELL-\source\repos\Complex-Loops\Fibonacci\bin\Debug\Fibonacci.exe.config
+C:\Users\DELL-\source\repos\Complex-Loops\Fibonacci\bin\Debug\Fibonacci.exe
+C:\Users\DELL-\source\repos\Complex-Loops\Fibonacci\bin\Debug\Fibonacci.pdb
+C:\Users\DELL-\source\repos\Complex-Loops\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\DELL-\source\repos\Complex-Loops\Fibonacci\obj\Debug\Fibonacci.exe
+C:\Users\DELL-\source\repos\Complex-Loops\Fibonacci\obj\Debug\Fibonacci.pdb

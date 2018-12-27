@@ -1,0 +1,6 @@
+C:\Users\DELL-\source\repos\Complex-Loops\Stop-Number\bin\Debug\Stop-Number.exe.config
+C:\Users\DELL-\source\repos\Complex-Loops\Stop-Number\bin\Debug\Stop-Number.exe
+C:\Users\DELL-\source\repos\Complex-Loops\Stop-Number\bin\Debug\Stop-Number.pdb
+C:\Users\DELL-\source\repos\Complex-Loops\Stop-Number\obj\Debug\Stop-Number.csproj.CoreCompileInputs.cache
+C:\Users\DELL-\source\repos\Complex-Loops\Stop-Number\obj\Debug\Stop-Number.exe
+C:\Users\DELL-\source\repos\Complex-Loops\Stop-Number\obj\Debug\Stop-Number.pdb

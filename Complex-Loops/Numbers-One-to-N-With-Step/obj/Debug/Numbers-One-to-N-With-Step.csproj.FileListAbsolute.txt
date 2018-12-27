@@ -1,0 +1,6 @@
+C:\Users\DELL-\source\repos\Complex-Loops\Numbers-One-to-N-With-Step\bin\Debug\Numbers-One-to-N-With-Step.exe.config
+C:\Users\DELL-\source\repos\Complex-Loops\Numbers-One-to-N-With-Step\bin\Debug\Numbers-One-to-N-With-Step.exe
+C:\Users\DELL-\source\repos\Complex-Loops\Numbers-One-to-N-With-Step\bin\Debug\Numbers-One-to-N-With-Step.pdb
+C:\Users\DELL-\source\repos\Complex-Loops\Numbers-One-to-N-With-Step\obj\Debug\Numbers-One-to-N-With-Step.csproj.CoreCompileInputs.cache
+C:\Users\DELL-\source\repos\Complex-Loops\Numbers-One-to-N-With-Step\obj\Debug\Numbers-One-to-N-With-Step.exe
+C:\Users\DELL-\source\repos\Complex-Loops\Numbers-One-to-N-With-Step\obj\Debug\Numbers-One-to-N-With-Step.pdb
