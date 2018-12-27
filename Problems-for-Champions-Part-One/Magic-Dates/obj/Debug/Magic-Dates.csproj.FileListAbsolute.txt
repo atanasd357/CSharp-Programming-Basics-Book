@@ -1,0 +1,7 @@
+C:\Users\DELL-\source\repos\Problems-for-Champions-Part-One\Magic-Dates\bin\Debug\Magic-Dates.exe.config
+C:\Users\DELL-\source\repos\Problems-for-Champions-Part-One\Magic-Dates\bin\Debug\Magic-Dates.exe
+C:\Users\DELL-\source\repos\Problems-for-Champions-Part-One\Magic-Dates\bin\Debug\Magic-Dates.pdb
+C:\Users\DELL-\source\repos\Problems-for-Champions-Part-One\Magic-Dates\obj\Debug\Magic-Dates.csprojResolveAssemblyReference.cache
+C:\Users\DELL-\source\repos\Problems-for-Champions-Part-One\Magic-Dates\obj\Debug\Magic-Dates.csproj.CoreCompileInputs.cache
+C:\Users\DELL-\source\repos\Problems-for-Champions-Part-One\Magic-Dates\obj\Debug\Magic-Dates.exe
+C:\Users\DELL-\source\repos\Problems-for-Champions-Part-One\Magic-Dates\obj\Debug\Magic-Dates.pdb
