@@ -1,0 +1,7 @@
+C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Generate-Rectangles\bin\Debug\Generate-Rectangles.exe.config
+C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Generate-Rectangles\bin\Debug\Generate-Rectangles.exe
+C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Generate-Rectangles\bin\Debug\Generate-Rectangles.pdb
+C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Generate-Rectangles\obj\Debug\Generate-Rectangles.csprojResolveAssemblyReference.cache
+C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Generate-Rectangles\obj\Debug\Generate-Rectangles.csproj.CoreCompileInputs.cache
+C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Generate-Rectangles\obj\Debug\Generate-Rectangles.exe
+C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Generate-Rectangles\obj\Debug\Generate-Rectangles.pdb

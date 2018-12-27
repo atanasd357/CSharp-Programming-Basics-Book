@@ -1,0 +1,7 @@
+C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Point-in-Figure\bin\Debug\Point-in-Figure.exe.config
+C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Point-in-Figure\bin\Debug\Point-in-Figure.exe
+C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Point-in-Figure\bin\Debug\Point-in-Figure.pdb
+C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Point-in-Figure\obj\Debug\Point-in-Figure.csprojResolveAssemblyReference.cache
+C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Point-in-Figure\obj\Debug\Point-in-Figure.csproj.CoreCompileInputs.cache
+C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Point-in-Figure\obj\Debug\Point-in-Figure.exe
+C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Point-in-Figure\obj\Debug\Point-in-Figure.pdb

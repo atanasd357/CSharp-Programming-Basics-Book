@@ -1,0 +1,7 @@
+C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Bricks\bin\Debug\Bricks.exe.config
+C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Bricks\bin\Debug\Bricks.exe
+C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Bricks\bin\Debug\Bricks.pdb
+C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Bricks\obj\Debug\Bricks.csproj.CoreCompileInputs.cache
+C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Bricks\obj\Debug\Bricks.exe
+C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Bricks\obj\Debug\Bricks.pdb
+C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Bricks\obj\Debug\Bricks.csprojResolveAssemblyReference.cache

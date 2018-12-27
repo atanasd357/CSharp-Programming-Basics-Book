@@ -1,0 +1,7 @@
+C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Rectangle-With-Stars\bin\Debug\Rectangle-With-Stars.exe.config
+C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Rectangle-With-Stars\bin\Debug\Rectangle-With-Stars.exe
+C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Rectangle-With-Stars\bin\Debug\Rectangle-With-Stars.pdb
+C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Rectangle-With-Stars\obj\Debug\Rectangle-With-Stars.csprojResolveAssemblyReference.cache
+C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Rectangle-With-Stars\obj\Debug\Rectangle-With-Stars.csproj.CoreCompileInputs.cache
+C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Rectangle-With-Stars\obj\Debug\Rectangle-With-Stars.exe
+C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Rectangle-With-Stars\obj\Debug\Rectangle-With-Stars.pdb

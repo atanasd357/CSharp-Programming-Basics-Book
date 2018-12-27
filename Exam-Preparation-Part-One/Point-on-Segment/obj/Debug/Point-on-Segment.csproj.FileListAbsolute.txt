@@ -1,0 +1,6 @@
+C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Point-on-Segment\bin\Debug\Point-on-Segment.exe.config
+C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Point-on-Segment\bin\Debug\Point-on-Segment.exe
+C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Point-on-Segment\bin\Debug\Point-on-Segment.pdb
+C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Point-on-Segment\obj\Debug\Point-on-Segment.csproj.CoreCompileInputs.cache
+C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Point-on-Segment\obj\Debug\Point-on-Segment.exe
+C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Point-on-Segment\obj\Debug\Point-on-Segment.pdb

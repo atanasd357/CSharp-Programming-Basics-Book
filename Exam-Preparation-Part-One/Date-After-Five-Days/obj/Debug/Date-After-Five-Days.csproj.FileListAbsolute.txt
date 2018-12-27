@@ -1,0 +1,7 @@
+C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Date-After-Five-Days\bin\Debug\Date-After-Five-Days.exe.config
+C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Date-After-Five-Days\bin\Debug\Date-After-Five-Days.exe
+C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Date-After-Five-Days\bin\Debug\Date-After-Five-Days.pdb
+C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Date-After-Five-Days\obj\Debug\Date-After-Five-Days.csprojResolveAssemblyReference.cache
+C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Date-After-Five-Days\obj\Debug\Date-After-Five-Days.csproj.CoreCompileInputs.cache
+C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Date-After-Five-Days\obj\Debug\Date-After-Five-Days.exe
+C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Date-After-Five-Days\obj\Debug\Date-After-Five-Days.pdb
