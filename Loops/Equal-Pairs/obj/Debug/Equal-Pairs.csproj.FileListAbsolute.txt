@@ -1,0 +1,6 @@
+C:\Users\DELL-\source\repos\Loops\Equal-Pairs\bin\Debug\Equal-Pairs.exe.config
+C:\Users\DELL-\source\repos\Loops\Equal-Pairs\bin\Debug\Equal-Pairs.exe
+C:\Users\DELL-\source\repos\Loops\Equal-Pairs\bin\Debug\Equal-Pairs.pdb
+C:\Users\DELL-\source\repos\Loops\Equal-Pairs\obj\Debug\Equal-Pairs.csproj.CoreCompileInputs.cache
+C:\Users\DELL-\source\repos\Loops\Equal-Pairs\obj\Debug\Equal-Pairs.exe
+C:\Users\DELL-\source\repos\Loops\Equal-Pairs\obj\Debug\Equal-Pairs.pdb

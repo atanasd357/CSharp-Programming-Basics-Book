@@ -1,0 +1,7 @@
+C:\Users\DELL-\source\repos\Loops\Min-Number\bin\Debug\Min-Number.exe.config
+C:\Users\DELL-\source\repos\Loops\Min-Number\bin\Debug\Min-Number.exe
+C:\Users\DELL-\source\repos\Loops\Min-Number\bin\Debug\Min-Number.pdb
+C:\Users\DELL-\source\repos\Loops\Min-Number\obj\Debug\Min-Number.csprojResolveAssemblyReference.cache
+C:\Users\DELL-\source\repos\Loops\Min-Number\obj\Debug\Min-Number.csproj.CoreCompileInputs.cache
+C:\Users\DELL-\source\repos\Loops\Min-Number\obj\Debug\Min-Number.exe
+C:\Users\DELL-\source\repos\Loops\Min-Number\obj\Debug\Min-Number.pdb

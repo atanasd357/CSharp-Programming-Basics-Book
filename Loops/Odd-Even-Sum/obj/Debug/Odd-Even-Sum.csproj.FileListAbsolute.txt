@@ -1,0 +1,6 @@
+C:\Users\DELL-\source\repos\Loops\Odd-Even-Sum\bin\Debug\Odd-Even-Sum.exe.config
+C:\Users\DELL-\source\repos\Loops\Odd-Even-Sum\bin\Debug\Odd-Even-Sum.exe
+C:\Users\DELL-\source\repos\Loops\Odd-Even-Sum\bin\Debug\Odd-Even-Sum.pdb
+C:\Users\DELL-\source\repos\Loops\Odd-Even-Sum\obj\Debug\Odd-Even-Sum.csproj.CoreCompileInputs.cache
+C:\Users\DELL-\source\repos\Loops\Odd-Even-Sum\obj\Debug\Odd-Even-Sum.exe
+C:\Users\DELL-\source\repos\Loops\Odd-Even-Sum\obj\Debug\Odd-Even-Sum.pdb

@@ -1,0 +1,6 @@
+C:\Users\DELL-\source\repos\Loops\Min-Number2\bin\Debug\Min-Number2.exe.config
+C:\Users\DELL-\source\repos\Loops\Min-Number2\bin\Debug\Min-Number2.exe
+C:\Users\DELL-\source\repos\Loops\Min-Number2\bin\Debug\Min-Number2.pdb
+C:\Users\DELL-\source\repos\Loops\Min-Number2\obj\Debug\Min-Number2.csproj.CoreCompileInputs.cache
+C:\Users\DELL-\source\repos\Loops\Min-Number2\obj\Debug\Min-Number2.exe
+C:\Users\DELL-\source\repos\Loops\Min-Number2\obj\Debug\Min-Number2.pdb

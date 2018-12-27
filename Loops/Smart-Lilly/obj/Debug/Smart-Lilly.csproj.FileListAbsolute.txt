@@ -1,0 +1,7 @@
+C:\Users\DELL-\source\repos\Loops\Smart-Lilly\bin\Debug\Smart-Lilly.exe.config
+C:\Users\DELL-\source\repos\Loops\Smart-Lilly\bin\Debug\Smart-Lilly.exe
+C:\Users\DELL-\source\repos\Loops\Smart-Lilly\bin\Debug\Smart-Lilly.pdb
+C:\Users\DELL-\source\repos\Loops\Smart-Lilly\obj\Debug\Smart-Lilly.csprojResolveAssemblyReference.cache
+C:\Users\DELL-\source\repos\Loops\Smart-Lilly\obj\Debug\Smart-Lilly.csproj.CoreCompileInputs.cache
+C:\Users\DELL-\source\repos\Loops\Smart-Lilly\obj\Debug\Smart-Lilly.exe
+C:\Users\DELL-\source\repos\Loops\Smart-Lilly\obj\Debug\Smart-Lilly.pdb

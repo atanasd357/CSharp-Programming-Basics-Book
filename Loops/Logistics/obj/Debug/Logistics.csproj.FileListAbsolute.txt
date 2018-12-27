@@ -1,0 +1,6 @@
+C:\Users\DELL-\source\repos\Loops\Logistics\bin\Debug\Logistics.exe.config
+C:\Users\DELL-\source\repos\Loops\Logistics\bin\Debug\Logistics.exe
+C:\Users\DELL-\source\repos\Loops\Logistics\bin\Debug\Logistics.pdb
+C:\Users\DELL-\source\repos\Loops\Logistics\obj\Debug\Logistics.csproj.CoreCompileInputs.cache
+C:\Users\DELL-\source\repos\Loops\Logistics\obj\Debug\Logistics.exe
+C:\Users\DELL-\source\repos\Loops\Logistics\obj\Debug\Logistics.pdb

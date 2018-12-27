@@ -1,0 +1,7 @@
+C:\Users\DELL-\source\repos\Loops\Number-Ending-in-Seven\bin\Debug\Number-Ending-in-Seven.exe.config
+C:\Users\DELL-\source\repos\Loops\Number-Ending-in-Seven\bin\Debug\Number-Ending-in-Seven.exe
+C:\Users\DELL-\source\repos\Loops\Number-Ending-in-Seven\bin\Debug\Number-Ending-in-Seven.pdb
+C:\Users\DELL-\source\repos\Loops\Number-Ending-in-Seven\obj\Debug\Number-Ending-in-Seven.csprojResolveAssemblyReference.cache
+C:\Users\DELL-\source\repos\Loops\Number-Ending-in-Seven\obj\Debug\Number-Ending-in-Seven.csproj.CoreCompileInputs.cache
+C:\Users\DELL-\source\repos\Loops\Number-Ending-in-Seven\obj\Debug\Number-Ending-in-Seven.exe
+C:\Users\DELL-\source\repos\Loops\Number-Ending-in-Seven\obj\Debug\Number-Ending-in-Seven.pdb

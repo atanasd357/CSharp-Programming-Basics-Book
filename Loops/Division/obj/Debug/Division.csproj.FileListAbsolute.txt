@@ -1,0 +1,7 @@
+C:\Users\DELL-\source\repos\Loops\Division\bin\Debug\Division.exe.config
+C:\Users\DELL-\source\repos\Loops\Division\bin\Debug\Division.exe
+C:\Users\DELL-\source\repos\Loops\Division\bin\Debug\Division.pdb
+C:\Users\DELL-\source\repos\Loops\Division\obj\Debug\Division.csprojResolveAssemblyReference.cache
+C:\Users\DELL-\source\repos\Loops\Division\obj\Debug\Division.csproj.CoreCompileInputs.cache
+C:\Users\DELL-\source\repos\Loops\Division\obj\Debug\Division.exe
+C:\Users\DELL-\source\repos\Loops\Division\obj\Debug\Division.pdb

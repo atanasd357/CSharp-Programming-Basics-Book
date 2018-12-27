@@ -1,0 +1,7 @@
+C:\Users\DELL-\source\repos\Loops\Number-From-Ome\bin\Debug\Number-From-Ome.exe.config
+C:\Users\DELL-\source\repos\Loops\Number-From-Ome\bin\Debug\Number-From-Ome.exe
+C:\Users\DELL-\source\repos\Loops\Number-From-Ome\bin\Debug\Number-From-Ome.pdb
+C:\Users\DELL-\source\repos\Loops\Number-From-Ome\obj\Debug\Number-From-One.csprojResolveAssemblyReference.cache
+C:\Users\DELL-\source\repos\Loops\Number-From-Ome\obj\Debug\Number-From-One.csproj.CoreCompileInputs.cache
+C:\Users\DELL-\source\repos\Loops\Number-From-Ome\obj\Debug\Number-From-Ome.exe
+C:\Users\DELL-\source\repos\Loops\Number-From-Ome\obj\Debug\Number-From-Ome.pdb
