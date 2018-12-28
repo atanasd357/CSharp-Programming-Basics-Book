@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace String_Repeater
 {
-    class StringRepeater
+    class Program
     {
         static void Main(string[] args)
         {

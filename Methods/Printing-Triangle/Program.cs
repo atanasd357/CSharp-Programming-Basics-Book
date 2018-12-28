@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Printing_Triangle
 {
-    class PrintTriangle
+    class Program
     {
         static void Main(string[] args)
         {

@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Blank_Receipt
 {
-    class BlankReceipt
+    class Program
     {
         static void Main(string[] args)
         {

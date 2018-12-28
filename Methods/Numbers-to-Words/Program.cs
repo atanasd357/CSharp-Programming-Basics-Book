@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Numbers_to_Words
 {
-    class NumbersToWords
+    class Program
     {
         static void Main(string[] args)
         {

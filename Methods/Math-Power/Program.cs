@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Math_Power
 {
-    class MathPower
+    class Program
     {
         static void Main(string[] args)
         {

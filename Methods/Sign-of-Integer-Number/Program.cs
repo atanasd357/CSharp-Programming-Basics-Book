@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Sign_of_Integer_Number
 {
-    class SignOfIntegerNumber
+    class Program
     {
         static void Main(string[] args)
         {

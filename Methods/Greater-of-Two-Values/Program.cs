@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Greater_of_Two_Values
 {
-    class GreaterOfTwoValues
+    class Program
     {
         static void Main(string[] args)
         {

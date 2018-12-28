@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Calculate_Triangle_Area
 {
-    class CalculateTriangleArea
+    class Program
     {
         static void Main(string[] args)
         {

@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Min_Method
 {
-    class MinMethod
+    class Program
     {
         static void Main(string[] args)
         {

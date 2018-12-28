@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace String_Encryption
 {
-    class StringEncryption
+    class Program
     {
         static void Main(string[] args)
         {
