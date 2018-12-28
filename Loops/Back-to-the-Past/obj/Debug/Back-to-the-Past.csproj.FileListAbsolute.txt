@@ -1,7 +1,0 @@
-C:\Users\DELL-\source\repos\Loops\Back-to-the-Past\bin\Debug\Back-to-the-Past.exe.config
-C:\Users\DELL-\source\repos\Loops\Back-to-the-Past\bin\Debug\Back-to-the-Past.exe
-C:\Users\DELL-\source\repos\Loops\Back-to-the-Past\bin\Debug\Back-to-the-Past.pdb
-C:\Users\DELL-\source\repos\Loops\Back-to-the-Past\obj\Debug\Back-to-the-Past.csprojResolveAssemblyReference.cache
-C:\Users\DELL-\source\repos\Loops\Back-to-the-Past\obj\Debug\Back-to-the-Past.csproj.CoreCompileInputs.cache
-C:\Users\DELL-\source\repos\Loops\Back-to-the-Past\obj\Debug\Back-to-the-Past.exe
-C:\Users\DELL-\source\repos\Loops\Back-to-the-Past\obj\Debug\Back-to-the-Past.pdb

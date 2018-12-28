@@ -1,7 +1,0 @@
-C:\Users\DELL-\source\repos\Loops\Half-Sum-Element\bin\Debug\Half-Sum-Element.exe.config
-C:\Users\DELL-\source\repos\Loops\Half-Sum-Element\bin\Debug\Half-Sum-Element.exe
-C:\Users\DELL-\source\repos\Loops\Half-Sum-Element\bin\Debug\Half-Sum-Element.pdb
-C:\Users\DELL-\source\repos\Loops\Half-Sum-Element\obj\Debug\Half-Sum-Element.csprojResolveAssemblyReference.cache
-C:\Users\DELL-\source\repos\Loops\Half-Sum-Element\obj\Debug\Half-Sum-Element.csproj.CoreCompileInputs.cache
-C:\Users\DELL-\source\repos\Loops\Half-Sum-Element\obj\Debug\Half-Sum-Element.exe
-C:\Users\DELL-\source\repos\Loops\Half-Sum-Element\obj\Debug\Half-Sum-Element.pdb

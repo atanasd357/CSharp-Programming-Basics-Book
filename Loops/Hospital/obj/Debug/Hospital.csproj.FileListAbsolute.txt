@@ -1,7 +1,0 @@
-C:\Users\DELL-\source\repos\Loops\Hospital\bin\Debug\Hospital.exe.config
-C:\Users\DELL-\source\repos\Loops\Hospital\bin\Debug\Hospital.exe
-C:\Users\DELL-\source\repos\Loops\Hospital\bin\Debug\Hospital.pdb
-C:\Users\DELL-\source\repos\Loops\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
-C:\Users\DELL-\source\repos\Loops\Hospital\obj\Debug\Hospital.exe
-C:\Users\DELL-\source\repos\Loops\Hospital\obj\Debug\Hospital.pdb
-C:\Users\DELL-\source\repos\Loops\Hospital\obj\Debug\Hospital.csprojAssemblyReference.cache

@@ -1,7 +1,0 @@
-C:\Users\DELL-\source\repos\Loops\Vowels-Sum\bin\Debug\Vowels-Sum.exe.config
-C:\Users\DELL-\source\repos\Loops\Vowels-Sum\bin\Debug\Vowels-Sum.exe
-C:\Users\DELL-\source\repos\Loops\Vowels-Sum\bin\Debug\Vowels-Sum.pdb
-C:\Users\DELL-\source\repos\Loops\Vowels-Sum\obj\Debug\Vowels-Sum.csprojResolveAssemblyReference.cache
-C:\Users\DELL-\source\repos\Loops\Vowels-Sum\obj\Debug\Vowels-Sum.csproj.CoreCompileInputs.cache
-C:\Users\DELL-\source\repos\Loops\Vowels-Sum\obj\Debug\Vowels-Sum.exe
-C:\Users\DELL-\source\repos\Loops\Vowels-Sum\obj\Debug\Vowels-Sum.pdb
