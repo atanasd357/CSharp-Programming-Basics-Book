@@ -1,6 +1,0 @@
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-Two\Distance\bin\Debug\Distance.exe.config
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-Two\Distance\bin\Debug\Distance.exe
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-Two\Distance\bin\Debug\Distance.pdb
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-Two\Distance\obj\Debug\Distance.csproj.CoreCompileInputs.cache
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-Two\Distance\obj\Debug\Distance.exe
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-Two\Distance\obj\Debug\Distance.pdb

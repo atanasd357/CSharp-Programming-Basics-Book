@@ -1,7 +1,0 @@
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-Two\Change-Tiles\bin\Debug\Change-Tiles.exe.config
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-Two\Change-Tiles\bin\Debug\Change-Tiles.exe
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-Two\Change-Tiles\bin\Debug\Change-Tiles.pdb
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-Two\Change-Tiles\obj\Debug\Change-Tiles.csprojResolveAssemblyReference.cache
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-Two\Change-Tiles\obj\Debug\Change-Tiles.csproj.CoreCompileInputs.cache
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-Two\Change-Tiles\obj\Debug\Change-Tiles.exe
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-Two\Change-Tiles\obj\Debug\Change-Tiles.pdb

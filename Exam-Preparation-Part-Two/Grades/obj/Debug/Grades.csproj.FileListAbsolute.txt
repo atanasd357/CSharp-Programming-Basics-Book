@@ -1,6 +1,0 @@
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-Two\Grades\bin\Debug\Grades.exe.config
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-Two\Grades\bin\Debug\Grades.exe
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-Two\Grades\bin\Debug\Grades.pdb
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-Two\Grades\obj\Debug\Grades.csproj.CoreCompileInputs.cache
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-Two\Grades\obj\Debug\Grades.exe
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-Two\Grades\obj\Debug\Grades.pdb

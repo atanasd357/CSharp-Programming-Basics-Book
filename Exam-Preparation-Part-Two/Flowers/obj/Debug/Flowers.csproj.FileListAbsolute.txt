@@ -1,7 +1,0 @@
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-Two\Flowers\bin\Debug\Flowers.exe.config
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-Two\Flowers\bin\Debug\Flowers.exe
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-Two\Flowers\bin\Debug\Flowers.pdb
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-Two\Flowers\obj\Debug\Flowers.csprojResolveAssemblyReference.cache
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-Two\Flowers\obj\Debug\Flowers.csproj.CoreCompileInputs.cache
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-Two\Flowers\obj\Debug\Flowers.exe
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-Two\Flowers\obj\Debug\Flowers.pdb

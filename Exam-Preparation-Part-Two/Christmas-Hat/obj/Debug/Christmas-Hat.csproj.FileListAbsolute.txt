@@ -1,7 +1,0 @@
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-Two\Christmas-Hat\bin\Debug\Christmas-Hat.exe.config
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-Two\Christmas-Hat\bin\Debug\Christmas-Hat.exe
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-Two\Christmas-Hat\bin\Debug\Christmas-Hat.pdb
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-Two\Christmas-Hat\obj\Debug\Christmas-Hat.csprojResolveAssemblyReference.cache
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-Two\Christmas-Hat\obj\Debug\Christmas-Hat.csproj.CoreCompileInputs.cache
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-Two\Christmas-Hat\obj\Debug\Christmas-Hat.exe
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-Two\Christmas-Hat\obj\Debug\Christmas-Hat.pdb

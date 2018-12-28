@@ -1,6 +1,0 @@
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-Two\Letters-Combination\bin\Debug\Letters-Combination.exe.config
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-Two\Letters-Combination\bin\Debug\Letters-Combination.exe
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-Two\Letters-Combination\bin\Debug\Letters-Combination.pdb
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-Two\Letters-Combination\obj\Debug\Letters-Combination.csproj.CoreCompileInputs.cache
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-Two\Letters-Combination\obj\Debug\Letters-Combination.exe
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-Two\Letters-Combination\obj\Debug\Letters-Combination.pdb
