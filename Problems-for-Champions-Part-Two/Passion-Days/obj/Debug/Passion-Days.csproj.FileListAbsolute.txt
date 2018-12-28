@@ -1,7 +1,0 @@
-C:\Users\DELL-\source\repos\Problems-for-Champions-Part-Two\Passion-Days\bin\Debug\Passion-Days.exe.config
-C:\Users\DELL-\source\repos\Problems-for-Champions-Part-Two\Passion-Days\bin\Debug\Passion-Days.exe
-C:\Users\DELL-\source\repos\Problems-for-Champions-Part-Two\Passion-Days\bin\Debug\Passion-Days.pdb
-C:\Users\DELL-\source\repos\Problems-for-Champions-Part-Two\Passion-Days\obj\Debug\Passion-Days.csprojResolveAssemblyReference.cache
-C:\Users\DELL-\source\repos\Problems-for-Champions-Part-Two\Passion-Days\obj\Debug\Passion-Days.csproj.CoreCompileInputs.cache
-C:\Users\DELL-\source\repos\Problems-for-Champions-Part-Two\Passion-Days\obj\Debug\Passion-Days.exe
-C:\Users\DELL-\source\repos\Problems-for-Champions-Part-Two\Passion-Days\obj\Debug\Passion-Days.pdb

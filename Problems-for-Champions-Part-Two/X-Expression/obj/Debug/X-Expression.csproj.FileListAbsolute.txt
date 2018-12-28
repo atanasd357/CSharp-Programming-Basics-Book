@@ -1,6 +1,0 @@
-C:\Users\DELL-\source\repos\Problems-for-Champions-Part-Two\X-Expression\bin\Debug\X-Expression.exe.config
-C:\Users\DELL-\source\repos\Problems-for-Champions-Part-Two\X-Expression\bin\Debug\X-Expression.exe
-C:\Users\DELL-\source\repos\Problems-for-Champions-Part-Two\X-Expression\bin\Debug\X-Expression.pdb
-C:\Users\DELL-\source\repos\Problems-for-Champions-Part-Two\X-Expression\obj\Debug\X-Expression.csproj.CoreCompileInputs.cache
-C:\Users\DELL-\source\repos\Problems-for-Champions-Part-Two\X-Expression\obj\Debug\X-Expression.exe
-C:\Users\DELL-\source\repos\Problems-for-Champions-Part-Two\X-Expression\obj\Debug\X-Expression.pdb
