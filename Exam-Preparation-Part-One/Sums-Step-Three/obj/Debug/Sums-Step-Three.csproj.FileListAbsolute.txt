@@ -1,6 +1,0 @@
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Sums-Step-Three\bin\Debug\Sums-Step-Three.exe.config
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Sums-Step-Three\bin\Debug\Sums-Step-Three.exe
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Sums-Step-Three\bin\Debug\Sums-Step-Three.pdb
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Sums-Step-Three\obj\Debug\Sums-Step-Three.csproj.CoreCompileInputs.cache
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Sums-Step-Three\obj\Debug\Sums-Step-Three.exe
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Sums-Step-Three\obj\Debug\Sums-Step-Three.pdb

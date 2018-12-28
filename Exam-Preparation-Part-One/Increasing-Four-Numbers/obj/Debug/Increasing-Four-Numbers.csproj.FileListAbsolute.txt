@@ -1,6 +1,0 @@
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Increasing-Four-Numbers\bin\Debug\Increasing-Four-Numbers.exe.config
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Increasing-Four-Numbers\bin\Debug\Increasing-Four-Numbers.exe
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Increasing-Four-Numbers\bin\Debug\Increasing-Four-Numbers.pdb
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Increasing-Four-Numbers\obj\Debug\Increasing-Four-Numbers.csproj.CoreCompileInputs.cache
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Increasing-Four-Numbers\obj\Debug\Increasing-Four-Numbers.exe
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Increasing-Four-Numbers\obj\Debug\Increasing-Four-Numbers.pdb

@@ -1,7 +1,0 @@
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Increasing-Elements\bin\Debug\Increasing-Elements.exe.config
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Increasing-Elements\bin\Debug\Increasing-Elements.exe
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Increasing-Elements\bin\Debug\Increasing-Elements.pdb
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Increasing-Elements\obj\Debug\Increasing-Elements.csprojResolveAssemblyReference.cache
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Increasing-Elements\obj\Debug\Increasing-Elements.csproj.CoreCompileInputs.cache
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Increasing-Elements\obj\Debug\Increasing-Elements.exe
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Increasing-Elements\obj\Debug\Increasing-Elements.pdb

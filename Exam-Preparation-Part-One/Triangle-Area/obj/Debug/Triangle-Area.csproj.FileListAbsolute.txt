@@ -1,7 +1,0 @@
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Triangle-Area\bin\Debug\Triangle-Area.exe.config
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Triangle-Area\bin\Debug\Triangle-Area.exe
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Triangle-Area\bin\Debug\Triangle-Area.pdb
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Triangle-Area\obj\Debug\Triangle-Area.csproj.CoreCompileInputs.cache
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Triangle-Area\obj\Debug\Triangle-Area.exe
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Triangle-Area\obj\Debug\Triangle-Area.pdb
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Triangle-Area\obj\Debug\Triangle-Area.csprojResolveAssemblyReference.cache

@@ -1,6 +1,0 @@
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Perfect-Diamond\bin\Debug\Perfect-Diamond.exe.config
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Perfect-Diamond\bin\Debug\Perfect-Diamond.exe
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Perfect-Diamond\bin\Debug\Perfect-Diamond.pdb
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Perfect-Diamond\obj\Debug\Perfect-Diamond.csproj.CoreCompileInputs.cache
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Perfect-Diamond\obj\Debug\Perfect-Diamond.exe
-C:\Users\DELL-\source\repos\Exam-Preparation-Part-One\Perfect-Diamond\obj\Debug\Perfect-Diamond.pdb
