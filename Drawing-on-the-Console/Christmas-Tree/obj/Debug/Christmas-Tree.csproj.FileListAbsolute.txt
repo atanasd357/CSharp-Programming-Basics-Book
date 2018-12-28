@@ -1,7 +1,0 @@
-C:\Users\DELL-\source\repos\Drawing-on-the-Console\Christmas-Tree\bin\Debug\Christmas-Tree.exe.config
-C:\Users\DELL-\source\repos\Drawing-on-the-Console\Christmas-Tree\bin\Debug\Christmas-Tree.exe
-C:\Users\DELL-\source\repos\Drawing-on-the-Console\Christmas-Tree\bin\Debug\Christmas-Tree.pdb
-C:\Users\DELL-\source\repos\Drawing-on-the-Console\Christmas-Tree\obj\Debug\Christmas-Tree.csprojResolveAssemblyReference.cache
-C:\Users\DELL-\source\repos\Drawing-on-the-Console\Christmas-Tree\obj\Debug\Christmas-Tree.csproj.CoreCompileInputs.cache
-C:\Users\DELL-\source\repos\Drawing-on-the-Console\Christmas-Tree\obj\Debug\Christmas-Tree.exe
-C:\Users\DELL-\source\repos\Drawing-on-the-Console\Christmas-Tree\obj\Debug\Christmas-Tree.pdb

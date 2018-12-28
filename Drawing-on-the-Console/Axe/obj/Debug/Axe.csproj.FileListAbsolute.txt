@@ -1,7 +1,0 @@
-C:\Users\DELL-\source\repos\Drawing-on-the-Console\Axe\bin\Debug\Axe.exe.config
-C:\Users\DELL-\source\repos\Drawing-on-the-Console\Axe\bin\Debug\Axe.exe
-C:\Users\DELL-\source\repos\Drawing-on-the-Console\Axe\bin\Debug\Axe.pdb
-C:\Users\DELL-\source\repos\Drawing-on-the-Console\Axe\obj\Debug\Axe.csproj.CoreCompileInputs.cache
-C:\Users\DELL-\source\repos\Drawing-on-the-Console\Axe\obj\Debug\Axe.exe
-C:\Users\DELL-\source\repos\Drawing-on-the-Console\Axe\obj\Debug\Axe.pdb
-C:\Users\DELL-\source\repos\Drawing-on-the-Console\Axe\obj\Debug\Axe.csprojResolveAssemblyReference.cache

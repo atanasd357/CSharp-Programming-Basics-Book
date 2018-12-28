@@ -1,7 +1,0 @@
-C:\Users\DELL-\source\repos\Drawing-on-the-Console\Butterfly\bin\Debug\Butterfly.exe.config
-C:\Users\DELL-\source\repos\Drawing-on-the-Console\Butterfly\bin\Debug\Butterfly.exe
-C:\Users\DELL-\source\repos\Drawing-on-the-Console\Butterfly\bin\Debug\Butterfly.pdb
-C:\Users\DELL-\source\repos\Drawing-on-the-Console\Butterfly\obj\Debug\Butterfly.csproj.CoreCompileInputs.cache
-C:\Users\DELL-\source\repos\Drawing-on-the-Console\Butterfly\obj\Debug\Butterfly.exe
-C:\Users\DELL-\source\repos\Drawing-on-the-Console\Butterfly\obj\Debug\Butterfly.pdb
-C:\Users\DELL-\source\repos\Drawing-on-the-Console\Butterfly\obj\Debug\Butterfly.csprojResolveAssemblyReference.cache

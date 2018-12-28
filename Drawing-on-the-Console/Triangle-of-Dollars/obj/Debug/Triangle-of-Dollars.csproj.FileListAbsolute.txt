@@ -1,6 +1,0 @@
-C:\Users\DELL-\source\repos\Drawing-on-the-Console\Triangle-of-Dollars\bin\Debug\Triangle-of-Dollars.exe.config
-C:\Users\DELL-\source\repos\Drawing-on-the-Console\Triangle-of-Dollars\bin\Debug\Triangle-of-Dollars.exe
-C:\Users\DELL-\source\repos\Drawing-on-the-Console\Triangle-of-Dollars\bin\Debug\Triangle-of-Dollars.pdb
-C:\Users\DELL-\source\repos\Drawing-on-the-Console\Triangle-of-Dollars\obj\Debug\Triangle-of-Dollars.csproj.CoreCompileInputs.cache
-C:\Users\DELL-\source\repos\Drawing-on-the-Console\Triangle-of-Dollars\obj\Debug\Triangle-of-Dollars.exe
-C:\Users\DELL-\source\repos\Drawing-on-the-Console\Triangle-of-Dollars\obj\Debug\Triangle-of-Dollars.pdb

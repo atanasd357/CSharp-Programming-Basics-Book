@@ -1,7 +1,0 @@
-C:\Users\DELL-\source\repos\Drawing-on-the-Console\Arrow\bin\Debug\Arrow.exe.config
-C:\Users\DELL-\source\repos\Drawing-on-the-Console\Arrow\bin\Debug\Arrow.exe
-C:\Users\DELL-\source\repos\Drawing-on-the-Console\Arrow\bin\Debug\Arrow.pdb
-C:\Users\DELL-\source\repos\Drawing-on-the-Console\Arrow\obj\Debug\Arrow.csprojResolveAssemblyReference.cache
-C:\Users\DELL-\source\repos\Drawing-on-the-Console\Arrow\obj\Debug\Arrow.csproj.CoreCompileInputs.cache
-C:\Users\DELL-\source\repos\Drawing-on-the-Console\Arrow\obj\Debug\Arrow.exe
-C:\Users\DELL-\source\repos\Drawing-on-the-Console\Arrow\obj\Debug\Arrow.pdb

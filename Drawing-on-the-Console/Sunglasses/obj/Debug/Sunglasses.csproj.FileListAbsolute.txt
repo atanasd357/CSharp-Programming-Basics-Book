@@ -1,7 +1,0 @@
-C:\Users\DELL-\source\repos\Drawing-on-the-Console\Sunglasses\bin\Debug\Sunglasses.exe.config
-C:\Users\DELL-\source\repos\Drawing-on-the-Console\Sunglasses\bin\Debug\Sunglasses.exe
-C:\Users\DELL-\source\repos\Drawing-on-the-Console\Sunglasses\bin\Debug\Sunglasses.pdb
-C:\Users\DELL-\source\repos\Drawing-on-the-Console\Sunglasses\obj\Debug\Sunglasses.csprojResolveAssemblyReference.cache
-C:\Users\DELL-\source\repos\Drawing-on-the-Console\Sunglasses\obj\Debug\Sunglasses.csproj.CoreCompileInputs.cache
-C:\Users\DELL-\source\repos\Drawing-on-the-Console\Sunglasses\obj\Debug\Sunglasses.exe
-C:\Users\DELL-\source\repos\Drawing-on-the-Console\Sunglasses\obj\Debug\Sunglasses.pdb
