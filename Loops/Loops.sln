@@ -27,8 +27,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odd-Even-Position", "Odd-Ev
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Equal-Pairs", "Equal-Pairs\Equal-Pairs.csproj", "{9678FF19-C415-49BF-A53A-BC3C56BF0C24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Turtle-Graphics", "Turtle-Graphics\Turtle-Graphics.csproj", "{6441F82D-7416-431F-B6CC-D4AA1B4080C6}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Histograma", "Histograma\Histograma.csproj", "{5765F26E-A65E-486A-965A-F3A136FB3363}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smart-Lilly", "Smart-Lilly\Smart-Lilly.csproj", "{04E264E3-3EF7-40D5-9052-C3BA945550CA}"
@@ -95,10 +93,6 @@ Global
 		{9678FF19-C415-49BF-A53A-BC3C56BF0C24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9678FF19-C415-49BF-A53A-BC3C56BF0C24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9678FF19-C415-49BF-A53A-BC3C56BF0C24}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6441F82D-7416-431F-B6CC-D4AA1B4080C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6441F82D-7416-431F-B6CC-D4AA1B4080C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6441F82D-7416-431F-B6CC-D4AA1B4080C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6441F82D-7416-431F-B6CC-D4AA1B4080C6}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5765F26E-A65E-486A-965A-F3A136FB3363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5765F26E-A65E-486A-965A-F3A136FB3363}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5765F26E-A65E-486A-965A-F3A136FB3363}.Release|Any CPU.ActiveCfg = Release|Any CPU
