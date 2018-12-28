@@ -29,10 +29,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Currency-Conventor", "Curre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1000-Days-After-Birth", "1000-Days-After-Birth\1000-Days-After-Birth.csproj", "{406148D3-93FC-47B6-8635-E9DF811944CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BGN-to-EUR-Converter", "..\BGN-to-EUR-Converter\BGN-to-EUR-Converter\BGN-to-EUR-Converter.csproj", "{AEC3DD4C-1909-4004-8D71-3B14A64D7F9F}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catch-the-Button", "Catch-the-Button\Catch-the-Button.csproj", "{714A8D47-DA29-4FCB-943E-C0E4C79A01E7}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Training-Lab", "Training-Lab\Training-Lab.csproj", "{144C8635-612E-4DD5-9018-685211D4E5BC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vegatable-Market", "Vegatable-Market\Vegatable-Market.csproj", "{F9EAE290-A04E-40DD-B93A-58437798CCC4}"
@@ -101,14 +97,6 @@ Global
 		{406148D3-93FC-47B6-8635-E9DF811944CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{406148D3-93FC-47B6-8635-E9DF811944CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{406148D3-93FC-47B6-8635-E9DF811944CB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AEC3DD4C-1909-4004-8D71-3B14A64D7F9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AEC3DD4C-1909-4004-8D71-3B14A64D7F9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AEC3DD4C-1909-4004-8D71-3B14A64D7F9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AEC3DD4C-1909-4004-8D71-3B14A64D7F9F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{714A8D47-DA29-4FCB-943E-C0E4C79A01E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{714A8D47-DA29-4FCB-943E-C0E4C79A01E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{714A8D47-DA29-4FCB-943E-C0E4C79A01E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{714A8D47-DA29-4FCB-943E-C0E4C79A01E7}.Release|Any CPU.Build.0 = Release|Any CPU
 		{144C8635-612E-4DD5-9018-685211D4E5BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{144C8635-612E-4DD5-9018-685211D4E5BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{144C8635-612E-4DD5-9018-685211D4E5BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
