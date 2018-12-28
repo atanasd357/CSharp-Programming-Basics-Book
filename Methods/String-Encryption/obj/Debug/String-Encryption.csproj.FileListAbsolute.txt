@@ -1,7 +1,0 @@
-C:\Users\DELL-\source\repos\Methods\String-Encryption\bin\Debug\String-Encryption.exe.config
-C:\Users\DELL-\source\repos\Methods\String-Encryption\bin\Debug\String-Encryption.exe
-C:\Users\DELL-\source\repos\Methods\String-Encryption\bin\Debug\String-Encryption.pdb
-C:\Users\DELL-\source\repos\Methods\String-Encryption\obj\Debug\String-Encryption.csprojResolveAssemblyReference.cache
-C:\Users\DELL-\source\repos\Methods\String-Encryption\obj\Debug\String-Encryption.csproj.CoreCompileInputs.cache
-C:\Users\DELL-\source\repos\Methods\String-Encryption\obj\Debug\String-Encryption.exe
-C:\Users\DELL-\source\repos\Methods\String-Encryption\obj\Debug\String-Encryption.pdb

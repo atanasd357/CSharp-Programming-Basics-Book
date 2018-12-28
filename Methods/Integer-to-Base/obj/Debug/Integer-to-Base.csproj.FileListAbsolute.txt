@@ -1,7 +1,0 @@
-C:\Users\DELL-\source\repos\Methods\Integer-to-Base\obj\Debug\Integer-to-Base.csprojResolveAssemblyReference.cache
-C:\Users\DELL-\source\repos\Methods\Integer-to-Base\obj\Debug\Integer-to-Base.csproj.CoreCompileInputs.cache
-C:\Users\DELL-\source\repos\Methods\Integer-to-Base\bin\Debug\Integer-to-Base.exe.config
-C:\Users\DELL-\source\repos\Methods\Integer-to-Base\bin\Debug\Integer-to-Base.exe
-C:\Users\DELL-\source\repos\Methods\Integer-to-Base\bin\Debug\Integer-to-Base.pdb
-C:\Users\DELL-\source\repos\Methods\Integer-to-Base\obj\Debug\Integer-to-Base.exe
-C:\Users\DELL-\source\repos\Methods\Integer-to-Base\obj\Debug\Integer-to-Base.pdb

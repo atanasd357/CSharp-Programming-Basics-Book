@@ -1,6 +1,0 @@
-C:\Users\DELL-\source\repos\Methods\Printing-Triangle\bin\Debug\Printing-Triangle.exe.config
-C:\Users\DELL-\source\repos\Methods\Printing-Triangle\bin\Debug\Printing-Triangle.exe
-C:\Users\DELL-\source\repos\Methods\Printing-Triangle\bin\Debug\Printing-Triangle.pdb
-C:\Users\DELL-\source\repos\Methods\Printing-Triangle\obj\Debug\Printing-Triangle.csproj.CoreCompileInputs.cache
-C:\Users\DELL-\source\repos\Methods\Printing-Triangle\obj\Debug\Printing-Triangle.exe
-C:\Users\DELL-\source\repos\Methods\Printing-Triangle\obj\Debug\Printing-Triangle.pdb
