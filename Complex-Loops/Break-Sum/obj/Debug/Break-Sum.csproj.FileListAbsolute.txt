@@ -1,6 +1,0 @@
-C:\Users\DELL-\source\repos\Complex-Loops\Break-Sum\bin\Debug\Break-Sum.exe.config
-C:\Users\DELL-\source\repos\Complex-Loops\Break-Sum\bin\Debug\Break-Sum.exe
-C:\Users\DELL-\source\repos\Complex-Loops\Break-Sum\bin\Debug\Break-Sum.pdb
-C:\Users\DELL-\source\repos\Complex-Loops\Break-Sum\obj\Debug\Break-Sum.csproj.CoreCompileInputs.cache
-C:\Users\DELL-\source\repos\Complex-Loops\Break-Sum\obj\Debug\Break-Sum.exe
-C:\Users\DELL-\source\repos\Complex-Loops\Break-Sum\obj\Debug\Break-Sum.pdb

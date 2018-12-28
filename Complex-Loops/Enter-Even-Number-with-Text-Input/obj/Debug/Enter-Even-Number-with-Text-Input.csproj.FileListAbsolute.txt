@@ -1,6 +1,0 @@
-C:\Users\DELL-\source\repos\Complex-Loops\Enter-Even-Number-with-Text-Input\bin\Debug\Enter-Even-Number-with-Text-Input.exe.config
-C:\Users\DELL-\source\repos\Complex-Loops\Enter-Even-Number-with-Text-Input\bin\Debug\Enter-Even-Number-with-Text-Input.exe
-C:\Users\DELL-\source\repos\Complex-Loops\Enter-Even-Number-with-Text-Input\bin\Debug\Enter-Even-Number-with-Text-Input.pdb
-C:\Users\DELL-\source\repos\Complex-Loops\Enter-Even-Number-with-Text-Input\obj\Debug\Enter-Even-Number-with-Text-Input.csproj.CoreCompileInputs.cache
-C:\Users\DELL-\source\repos\Complex-Loops\Enter-Even-Number-with-Text-Input\obj\Debug\Enter-Even-Number-with-Text-Input.exe
-C:\Users\DELL-\source\repos\Complex-Loops\Enter-Even-Number-with-Text-Input\obj\Debug\Enter-Even-Number-with-Text-Input.pdb

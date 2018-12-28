@@ -1,7 +1,0 @@
-C:\Users\DELL-\source\repos\Complex-Loops\Special-Numbers\bin\Debug\Special-Numbers.exe.config
-C:\Users\DELL-\source\repos\Complex-Loops\Special-Numbers\bin\Debug\Special-Numbers.exe
-C:\Users\DELL-\source\repos\Complex-Loops\Special-Numbers\bin\Debug\Special-Numbers.pdb
-C:\Users\DELL-\source\repos\Complex-Loops\Special-Numbers\obj\Debug\Special-Numbers.csprojResolveAssemblyReference.cache
-C:\Users\DELL-\source\repos\Complex-Loops\Special-Numbers\obj\Debug\Special-Numbers.csproj.CoreCompileInputs.cache
-C:\Users\DELL-\source\repos\Complex-Loops\Special-Numbers\obj\Debug\Special-Numbers.exe
-C:\Users\DELL-\source\repos\Complex-Loops\Special-Numbers\obj\Debug\Special-Numbers.pdb

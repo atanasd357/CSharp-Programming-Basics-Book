@@ -1,6 +1,0 @@
-C:\Users\DELL-\source\repos\Complex-Loops\Greatest-Common-Divisor\bin\Debug\Greatest-Common-Divisor.exe.config
-C:\Users\DELL-\source\repos\Complex-Loops\Greatest-Common-Divisor\bin\Debug\Greatest-Common-Divisor.exe
-C:\Users\DELL-\source\repos\Complex-Loops\Greatest-Common-Divisor\bin\Debug\Greatest-Common-Divisor.pdb
-C:\Users\DELL-\source\repos\Complex-Loops\Greatest-Common-Divisor\obj\Debug\Greatest-Common-Divisor.csproj.CoreCompileInputs.cache
-C:\Users\DELL-\source\repos\Complex-Loops\Greatest-Common-Divisor\obj\Debug\Greatest-Common-Divisor.exe
-C:\Users\DELL-\source\repos\Complex-Loops\Greatest-Common-Divisor\obj\Debug\Greatest-Common-Divisor.pdb

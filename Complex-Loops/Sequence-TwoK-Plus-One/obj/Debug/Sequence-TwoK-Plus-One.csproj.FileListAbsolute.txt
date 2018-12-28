@@ -1,6 +1,0 @@
-C:\Users\DELL-\source\repos\Complex-Loops\Sequence-TwoK-Plus-One\bin\Debug\Sequence-TwoK-Plus-One.exe.config
-C:\Users\DELL-\source\repos\Complex-Loops\Sequence-TwoK-Plus-One\bin\Debug\Sequence-TwoK-Plus-One.exe
-C:\Users\DELL-\source\repos\Complex-Loops\Sequence-TwoK-Plus-One\bin\Debug\Sequence-TwoK-Plus-One.pdb
-C:\Users\DELL-\source\repos\Complex-Loops\Sequence-TwoK-Plus-One\obj\Debug\Sequence-TwoK-Plus-One.csproj.CoreCompileInputs.cache
-C:\Users\DELL-\source\repos\Complex-Loops\Sequence-TwoK-Plus-One\obj\Debug\Sequence-TwoK-Plus-One.exe
-C:\Users\DELL-\source\repos\Complex-Loops\Sequence-TwoK-Plus-One\obj\Debug\Sequence-TwoK-Plus-One.pdb

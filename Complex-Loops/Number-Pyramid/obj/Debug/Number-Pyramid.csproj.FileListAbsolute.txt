@@ -1,6 +1,0 @@
-C:\Users\DELL-\source\repos\Complex-Loops\Number-Pyramid\bin\Debug\Number-Pyramid.exe.config
-C:\Users\DELL-\source\repos\Complex-Loops\Number-Pyramid\bin\Debug\Number-Pyramid.exe
-C:\Users\DELL-\source\repos\Complex-Loops\Number-Pyramid\bin\Debug\Number-Pyramid.pdb
-C:\Users\DELL-\source\repos\Complex-Loops\Number-Pyramid\obj\Debug\Number-Pyramid.csproj.CoreCompileInputs.cache
-C:\Users\DELL-\source\repos\Complex-Loops\Number-Pyramid\obj\Debug\Number-Pyramid.exe
-C:\Users\DELL-\source\repos\Complex-Loops\Number-Pyramid\obj\Debug\Number-Pyramid.pdb

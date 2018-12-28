@@ -1,6 +1,0 @@
-C:\Users\DELL-\source\repos\Complex-Loops\Numbers-N-to-One\bin\Debug\Numbers-N-to-One.exe.config
-C:\Users\DELL-\source\repos\Complex-Loops\Numbers-N-to-One\bin\Debug\Numbers-N-to-One.exe
-C:\Users\DELL-\source\repos\Complex-Loops\Numbers-N-to-One\bin\Debug\Numbers-N-to-One.pdb
-C:\Users\DELL-\source\repos\Complex-Loops\Numbers-N-to-One\obj\Debug\Numbers-N-to-One.csproj.CoreCompileInputs.cache
-C:\Users\DELL-\source\repos\Complex-Loops\Numbers-N-to-One\obj\Debug\Numbers-N-to-One.exe
-C:\Users\DELL-\source\repos\Complex-Loops\Numbers-N-to-One\obj\Debug\Numbers-N-to-One.pdb

@@ -1,6 +1,0 @@
-C:\Users\DELL-\source\repos\Complex-Loops\Number_table\bin\Debug\Number_table.exe.config
-C:\Users\DELL-\source\repos\Complex-Loops\Number_table\bin\Debug\Number_table.exe
-C:\Users\DELL-\source\repos\Complex-Loops\Number_table\bin\Debug\Number_table.pdb
-C:\Users\DELL-\source\repos\Complex-Loops\Number_table\obj\Debug\Number-Table.csproj.CoreCompileInputs.cache
-C:\Users\DELL-\source\repos\Complex-Loops\Number_table\obj\Debug\Number_table.exe
-C:\Users\DELL-\source\repos\Complex-Loops\Number_table\obj\Debug\Number_table.pdb
